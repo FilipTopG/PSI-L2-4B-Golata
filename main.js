@@ -1,6 +1,6 @@
 function pokazKomunikat() {
     alert(
-        "JavaScript jest wszechstronny – działa w przeglądarce, na serwerze i pozwala szybko zobaczyć efekty pracy."
+        "JS spoko"
     );
 }
 

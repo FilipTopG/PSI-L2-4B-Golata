@@ -29,7 +29,7 @@ section {
 }
 
 h2 {
-    color: #34495e;
+    color: black;
 }
 
 ul {
@@ -40,7 +40,7 @@ ul {
 button {
     margin-top: 10px;
     padding: 8px 14px;
-    background-color: #3498db;
+    background-color: burlywood;
     color: white;
     border: none;
     border-radius: 6px;
