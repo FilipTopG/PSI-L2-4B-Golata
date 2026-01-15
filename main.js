@@ -10,7 +10,7 @@ function dodajHobby() {
         "Muzyka",
         "Sport",
         "Tworzenie stron WWW",
-        "Uczenie się nowych technologii"
+        "jazda"
     ];
 
     const lista = document.getElementById("hobby-list");
